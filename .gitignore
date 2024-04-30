@@ -1,0 +1,3 @@
+# PyCharm specific
+.idea/
+*.iml
